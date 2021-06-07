@@ -1,0 +1,27 @@
+{
+   "name": "Yordan Decentralized Coin", 
+   "logoURI": "https://ydc.yordan.vip/logo/YDC%20200pxpng.png", 
+   "timestamp": 1610339529000,
+   "tokens": [{
+           "chainId": 1,
+           "address": "TJiDppfDcrdXBJdv6A7BW7f5km6T3TLoxP",
+           "name": "Yordan Decentralized Coin",
+           "symbol": "YDC",
+           "decimals": 6,
+           "logoURI": "https://ydc.yordan.vip/logo/YDC%20200pxpng.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+           "name": "USDJ",
+           "symbol": "USDJ",
+           "decimals": 18,
+           "logoURI": "https://coin.top/production/logo/usdj.png"
+       }
+   ],
+   "version": { 
+       "major": 1, 
+       "minor": 0,
+       "patch": 0 
+   }
+}
